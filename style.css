@@ -28,3 +28,23 @@ img{
     display: grid;
     gap: 3.2rem;
 }
+
+header{
+    position: fixed;
+    max-width: 30rem;
+}
+
+header h1{
+    font-size: 4.8rem;
+    font-weight: 400;
+}
+
+header i{
+    font-size: 3.2rem;
+    display: block;
+    margin-top: 3.2rem;
+}
+
+main{
+    margin-left: 50.6rem;
+}
