@@ -1,6 +1,8 @@
 # Dicas-Avancadas-BoraCodar-RocketSeat
 Bora Codar 20
 
+https://renanrodriguesrecife.github.io/Dicas-Avancadas-BoraCodar-RocketSeat/
+
 Uso de propriedades modernas:
 
 - [x] Aspect Ratio
