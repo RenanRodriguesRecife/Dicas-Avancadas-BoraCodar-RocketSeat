@@ -21,7 +21,7 @@ img{
     width: 100%;
     height: 100%;
     object-fit: cover;
-    aspect-ratio: 1/1;
+    aspect-ratio: 1 / 1;
 }
 
 .grid{
@@ -50,23 +50,28 @@ main{
 }
 
 .model-1 .container:nth-child(1){
+    
     grid-row: 1/3;
 }
 
 .model-1 .container:nth-child(1) img,
 .model-1 .container:nth-child(3) img{
     aspect-ratio: 9/16;
+   
 }
 
 .horizontal{
-    aspect-ratio: 1/3;
+    grid-column: 1/3;
+    
 }
 
 .horizontal img{
     aspect-ratio: 16/9;
+    
 }
 
 .model-2 .container:nth-child(3){
     grid-column: 2;
     grid-row:1/3;
 }
+
